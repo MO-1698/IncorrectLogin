@@ -1,0 +1,35 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                Test Method: 'IncorrectLoginTests.validateLogin'                                                
+                                                Test Description: 'Validate user incorrect login'                                                
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://automationexercise.com/" @05-10-2024 21:57:54.0509 PM
+[ReportManager] Initial URL: "about:blank" @05-10-2024 21:57:54.0547 PM
+[ReportManager] Navigate to url "https://automationexercise.com/". @05-10-2024 21:58:03.0096 PM
+[ReportManager] Verify that the element located by "By.xpath: //a[@style="color: orange;"]" text contains "Home". @05-10-2024 21:58:03.0157 PM
+[ReportManager] Expected "Home", and actual "Home" @05-10-2024 21:58:03.0436 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_21-58-16-448_05102024' @05-10-2024 21:58:16.0477 PM
+[ReportManager] Expected "Home", and actual "Home" @05-10-2024 21:58:16.0477 PM
+[ReportManager] Verification passed @05-10-2024 21:58:16.0477 PM
+[ReportManager] Moved the mouse to the middle of the element. @05-10-2024 21:58:16.0744 PM
+[ReportManager] Click "By.xpath: //a[@href="/login"]//i[@class="fa fa-lock"]". @05-10-2024 21:58:19.0467 PM
+[ReportManager] Verify that the element located by "By.xpath: //div[@class="login-form"]" text contains "Login to your account". @05-10-2024 21:58:19.0475 PM
+[ReportManager] Expected "Login to your account", and actual "Login to your account
+Login" @05-10-2024 21:58:19.0738 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_21-58-20-750_05102024' @05-10-2024 21:58:20.0765 PM
+[ReportManager] Expected "Login to your account", and actual "Login to your account
+Login" @05-10-2024 21:58:20.0766 PM
+[ReportManager] Verification passed @05-10-2024 21:58:20.0767 PM
+[ReportManager] Text cleared Using Native Clear @05-10-2024 21:58:20.0951 PM
+[ReportManager] Type "Sam@yahoo.com" into "Email Address". @05-10-2024 21:58:21.0066 PM
+[ReportManager] Text cleared Using Native Clear @05-10-2024 21:58:21.0224 PM
+[ReportManager] Type "123456789" into "Password". @05-10-2024 21:58:21.0348 PM
+[ReportManager] Moved the mouse to the middle of the element. @05-10-2024 21:58:21.0576 PM
+[ReportManager] Click "Login". @05-10-2024 21:58:23.0438 PM
+[ReportManager] Verify that the element located by "By.xpath: //p[@style="color: red;"]" text contains "Your email or password is incorrect!". @05-10-2024 21:58:23.0445 PM
+[ReportManager] Expected "Your email or password is incorrect!", and actual "Your email or password is incorrect!" @05-10-2024 21:58:23.0659 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_21-58-24-826_05102024' @05-10-2024 21:58:24.0843 PM
+[ReportManager] Expected "Your email or password is incorrect!", and actual "Your email or password is incorrect!" @05-10-2024 21:58:24.0843 PM
+[ReportManager] Verification passed @05-10-2024 21:58:24.0843 PM
